@@ -13,7 +13,7 @@
     --icon-color: #AFB1B8;
 }
 
-/* Общие настройки */
+/* Загальні */
 body {
     color: var(--primery-text-color);
     background-color: var(--main-letter-color);
@@ -568,7 +568,7 @@ section {
 }
 
 /* footer */
-/* модальное окно */
+/* Модальне вікно */
 .backdrop {
     position: fixed;
     top: 0;
@@ -760,8 +760,8 @@ section {
     background-color: var(--background-btn-color);
 }
 
-/* модальное окно */
-/* портфолио */
+/* Модальне вікно */
+/* Портфоліо */
 .project-container__button {
     padding: 6px 22px;
     font-family: inherit;
